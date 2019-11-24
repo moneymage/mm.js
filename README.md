@@ -3,7 +3,7 @@ Money Mage JavaScript library for Personal Finance Calculators and Charts
 
 ## Documentation
 
-Full documentation can be found at https://www.moneymage.net/calculators/embed/
+Full documentation and examples can be found at https://www.moneymage.net/calculators/embed/
 
 ## About mm.js
 
